@@ -4,7 +4,7 @@
 
 ## I'm a Developer JS
 
-- 👨‍💻 I'm currently working at [Ineat](https://www.ineat-group.com) !
+- 👨‍💻 I'm currently working at [Adeo](https://www.adeo.com/) !
 - 🧠 I'm currently try to learn machine learning 🦾
 
 ### Connect with me:
